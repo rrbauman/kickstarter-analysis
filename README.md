@@ -24,7 +24,7 @@ their launch dates and their funding goals.
 ### Analysis of Outcomes Based on Launch Date
 First using the Kickstarter spreasheet I created a new column utilizing the excel YEARS function in order to be able to identify later in process the month of the launch. 
 I then created a pivot table labeled Theater Outcomes by Launch Date with a filter on Parent Category, in order to get Theatre info only, and Years, in order to get the month of launch. 
-![Launch Date Outcomes](./Outcomes_vs_Goals.png)
+![Launch Date Outcomes](./Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 For the second section, 
@@ -33,8 +33,8 @@ For the second section,
 1. a new function, COUNTIFS, as well as some 
 2. calcs for percentage for which I had to properly format the field to show percent 
 3. the basic SUM function for summarizing rows.
-![Launch Date Outcomes](./Theater_Outcomes_vs_Launch.png)
 
+![Goal Outcomes](./Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 I had a bit of a challenge with the Rose Labels column but the helpful hint solved that.  Because there was plenty of helpful steps in thes first section, it was somewhat easy to 
 navigate through.
